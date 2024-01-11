@@ -21,7 +21,7 @@
 
 - Spring, Oracle, java,Flask,MyBatis,Python,jsp+Serviet,JSON
 - Html,js,css,JQuery,Ajax,BootStrape
-- slack,Nothon,git,github
+- slack,Notion,git,github
 - android
 - kakaoDevel,Naver api, youtube api, chat GPT
 - Eclipes,pychom,VSCode
