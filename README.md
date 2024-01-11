@@ -19,21 +19,21 @@
 
 ## 🛠 사용 기술 및 도구
 
-- Spring, Oracle, java,Flask,MyBatis,Python,jsp+Serviet,JSON
-- Html,js,css,JQuery,Ajax,BootStrape
-- slack,Notion,git,github
+- Spring, Oracle, java, Flask, MyBatis, Python, jsp+Serviet, JSON
+- Html, js, css, JQuery, Ajax, BootStrape
+- Slack, Notion, Git, GitHub
 - android
-- kakaoDevel,Naver api, youtube api, chat GPT
-- Eclipes,pychom,VSCode
+- kakaoDevel, Naver api, youtube api, chat GPT
+- Eclipes, pychom, VSCode
 
 ## 🖥 담당한 기능
 
--WebSocket을 활용한 실시간 웹 메신저 기능 설계 및 구현
--Chat-GPT 기반 Chatbot 서비스 구현
--Web API를 활용한 Chatbot의 STT&TTS 설계 및 구현
--Spring Q&A 좋아요 기능 DB설계 및 구현
--Spring Q&A 관리자 댓글 기능 DB설계 및 구현
--Selenuim을 활용한 매거진 웹 크롤링
+- WebSocket을 활용한 실시간 웹 메신저 기능 설계 및 구현
+- Chat-GPT 기반 Chatbot 서비스 구현
+- Web API를 활용한 Chatbot의 STT&TTS 설계 및 구현
+- Spring Q&A 좋아요 기능 DB설계 및 구현
+- Spring Q&A 관리자 댓글 기능 DB설계 및 구현
+- Selenuim을 활용한 매거진 웹 크롤링
 
 ## 💡 성장한 부분
 
@@ -88,4 +88,4 @@
     ### 개발 외
     
     - 컨텐츠 개발을 위해 다양한 정보 수집 및 크롤링을 통한 데이터베이스 정교화 작업을 진행
-    - notion, slack, googlesheets, github를 활용
+    - Notion, Slack, googlesheets, Github를 활용
