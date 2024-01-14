@@ -89,3 +89,7 @@
     
     - 컨텐츠 개발을 위해 다양한 정보 수집 및 크롤링을 통한 데이터베이스 정교화 작업을 진행
     - Notion, Slack, googlesheets, Github를 활용
+
+    ### 유튜브 영상 링크
+    - 시연 영상: https://youtu.be/gt-bRmk-SFU
+    - PPT 영상: https://youtu.be/8lJrBYRJsQ0
