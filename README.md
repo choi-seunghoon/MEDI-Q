@@ -24,7 +24,7 @@
 - Slack, Notion, Git, GitHub
 - android
 - kakaoDevel, Naver api, youtube api, chat GPT
-- Eclipes, pychom, VSCode
+- Eclipes, Pycham, VSCode
 
 ## 🖥 담당한 기능
 
